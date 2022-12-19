@@ -1,0 +1,13 @@
+# Target labels
+ ftxui-populate
+# Source files and their labels
+/root/workspace/drawing/final-project-angelajt/build/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate
+/root/workspace/drawing/final-project-angelajt/build/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.rule
+/root/workspace/drawing/final-project-angelajt/build/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate-complete.rule
+/root/workspace/drawing/final-project-angelajt/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build.rule
+/root/workspace/drawing/final-project-angelajt/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure.rule
+/root/workspace/drawing/final-project-angelajt/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download.rule
+/root/workspace/drawing/final-project-angelajt/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install.rule
+/root/workspace/drawing/final-project-angelajt/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir.rule
+/root/workspace/drawing/final-project-angelajt/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch.rule
+/root/workspace/drawing/final-project-angelajt/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test.rule
